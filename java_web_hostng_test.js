@@ -19,6 +19,8 @@ function setup() {
 }
 
 function draw() {
+  fill(255,255,255);
+  text("The Cyclops",width/2,100);
   //background(1);
  eyeX=width/2;
  eyeY=height/2;
