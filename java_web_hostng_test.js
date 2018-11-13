@@ -20,6 +20,7 @@ function setup() {
 
 function draw() {
   fill(255,255,255);
+  textSize(60);
   text("The Cyclops",width/2,100);
   //background(1);
  eyeX=width/2;
